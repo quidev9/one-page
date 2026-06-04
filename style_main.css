@@ -44,11 +44,11 @@ body {
     height: 100%;
 
 
-    transform: scale(1.5) ;
+    transform: scale(1.4) ;
 }
 
 .box-mirror {
-    transform: scale(1.5) scaleX(-1);
+    transform: scale(1.4) scaleX(-1);
 }
 
 h1 {
