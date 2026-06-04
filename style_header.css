@@ -1,6 +1,8 @@
 * {
     margin: 0;
     padding: 0;
+
+    color: lightblue;
 }
 
 
@@ -15,7 +17,7 @@
 }
 
 .logo span {
-    color: #EE7F5C;
+    color: #ee5c5c;
     
 }
 
@@ -39,7 +41,7 @@
 
 
 .orange-text {
-    color: #EE7F5C;
+    color: #ee5c5c;
 }
 
 .nav-panel ul {
@@ -97,7 +99,7 @@
 
 
 .sign-button {
-    background-image: linear-gradient(to top right, #EE7F5C, #EE7F5C);
+    background-image: linear-gradient(to top right, #ee5c5c, #ee5c5c);
     border: 0;
     border-radius: 5px;
     
